@@ -1,7 +1,7 @@
-### Hello! I am Jeziel Dourado 👋
+### Hello! I am Jeziel Dourado 😉
 
 - 👷 I’m currently working on Civil Engineering
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 📚 I’m currently learning HTML, CSS, Javascript
 - 😄 Pronouns: he/his ele/dele
 
 
