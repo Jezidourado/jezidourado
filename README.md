@@ -7,9 +7,9 @@
 
 ## I'm a Civil Engineer, recalculating my route and discovering the world of technology.
 <div align="center">
-  <a href="https://github.com/jezidourado">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jezidourado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jezidourado&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Jezidourado">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Jezidourado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jezidourado&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,6 +26,6 @@
   <a href="https://instagram.com/jezidourado" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
  
-  ![Snake animation](https://github.com/jezidourado/jezidourado/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Jezidourado/Jezidourado/blob/output/github-contribution-grid-snake.svg)
  
 </div>
