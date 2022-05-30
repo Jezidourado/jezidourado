@@ -6,6 +6,10 @@
 
 
 ## I'm a Civil Engineer, recalculating my route and discovering the world of technology.
+
+<section align="left">
+  <img src="https://komarev.com/ghpvc/?username=lkotlarenko&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
+  
 <div align="center">
   <a href="https://github.com/Jezidourado">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Jezidourado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
