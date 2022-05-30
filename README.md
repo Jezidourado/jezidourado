@@ -3,6 +3,7 @@
 - 👷 I’m currently working on Civil Engineering
 - 📚 I’m currently learning HTML, CSS, Javascript
 - 😄 Pronouns: he/his ele/dele
+- 🏡 Brasilian, livin at Santa Barbara d'Oeste-SP.
 
 
 ## I'm a Civil Engineer, recalculating my route and discovering the world of technology.
