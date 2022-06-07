@@ -30,4 +30,5 @@
  
   ![Snake animation](https://github.com/Jezidourado/Jezidourado/blob/output/github-contribution-grid-snake.svg)
  
+  
 </div>
